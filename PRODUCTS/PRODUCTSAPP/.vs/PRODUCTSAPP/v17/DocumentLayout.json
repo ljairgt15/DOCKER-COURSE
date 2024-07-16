@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jair G\u00F3mez\\OneDrive - IMPROVE-IT\\Escritorio\\IMPPROVE-IT\\DOCKER\\PRODUCTS\\PRODUCTSAPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36E5AE09-15CE-4509-801A-DC331E10A02C}|PRODUCTSAPP\\PRODUCTSAPP.csproj|c:\\users\\jair g\u00F3mez\\onedrive - improve-it\\escritorio\\impprove-it\\docker\\products\\productsapp\\productsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E5AE09-15CE-4509-801A-DC331E10A02C}|PRODUCTSAPP\\PRODUCTSAPP.csproj|solutionrelative:productsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E5AE09-15CE-4509-801A-DC331E10A02C}|PRODUCTSAPP\\PRODUCTSAPP.csproj|c:\\users\\jair g\u00F3mez\\onedrive - improve-it\\escritorio\\impprove-it\\docker\\products\\productsapp\\productsapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E5AE09-15CE-4509-801A-DC331E10A02C}|PRODUCTSAPP\\PRODUCTSAPP.csproj|solutionrelative:productsapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E5AE09-15CE-4509-801A-DC331E10A02C}|PRODUCTSAPP\\PRODUCTSAPP.csproj|c:\\users\\jair g\u00F3mez\\onedrive - improve-it\\escritorio\\impprove-it\\docker\\products\\productsapp\\productsapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{36E5AE09-15CE-4509-801A-DC331E10A02C}|PRODUCTSAPP\\PRODUCTSAPP.csproj|solutionrelative:productsapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E5AE09-15CE-4509-801A-DC331E10A02C}|PRODUCTSAPP\\PRODUCTSAPP.csproj|c:\\users\\jair g\u00F3mez\\onedrive - improve-it\\escritorio\\impprove-it\\docker\\products\\productsapp\\productsapp\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E5AE09-15CE-4509-801A-DC331E10A02C}|PRODUCTSAPP\\PRODUCTSAPP.csproj|solutionrelative:productsapp\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Jair G\u00F3mez\\OneDrive - IMPROVE-IT\\Escritorio\\IMPPROVE-IT\\DOCKER\\PRODUCTS\\PRODUCTSAPP\\PRODUCTSAPP\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "PRODUCTSAPP\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Jair G\u00F3mez\\OneDrive - IMPROVE-IT\\Escritorio\\IMPPROVE-IT\\DOCKER\\PRODUCTS\\PRODUCTSAPP\\PRODUCTSAPP\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "PRODUCTSAPP\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T15:32:23.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Jair G\u00F3mez\\OneDrive - IMPROVE-IT\\Escritorio\\IMPPROVE-IT\\DOCKER\\PRODUCTS\\PRODUCTSAPP\\PRODUCTSAPP\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PRODUCTSAPP\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Jair G\u00F3mez\\OneDrive - IMPROVE-IT\\Escritorio\\IMPPROVE-IT\\DOCKER\\PRODUCTS\\PRODUCTSAPP\\PRODUCTSAPP\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PRODUCTSAPP\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-16T15:31:53.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jair G\u00F3mez\\OneDrive - IMPROVE-IT\\Escritorio\\IMPPROVE-IT\\DOCKER\\PRODUCTS\\PRODUCTSAPP\\PRODUCTSAPP\\Program.cs",
+              "RelativeDocumentMoniker": "PRODUCTSAPP\\Program.cs",
+              "ToolTip": "C:\\Users\\Jair G\u00F3mez\\OneDrive - IMPROVE-IT\\Escritorio\\IMPPROVE-IT\\DOCKER\\PRODUCTS\\PRODUCTSAPP\\PRODUCTSAPP\\Program.cs",
+              "RelativeToolTip": "PRODUCTSAPP\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T15:31:47.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Jair G\u00F3mez\\OneDrive - IMPROVE-IT\\Escritorio\\IMPPROVE-IT\\DOCKER\\PRODUCTS\\PRODUCTSAPP\\PRODUCTSAPP\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "PRODUCTSAPP\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Jair G\u00F3mez\\OneDrive - IMPROVE-IT\\Escritorio\\IMPPROVE-IT\\DOCKER\\PRODUCTS\\PRODUCTSAPP\\PRODUCTSAPP\\WeatherForecast.cs",
+              "RelativeToolTip": "PRODUCTSAPP\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T15:31:40.356Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
