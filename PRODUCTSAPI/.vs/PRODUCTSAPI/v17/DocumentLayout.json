@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Jair G\u00F3mez\\OneDrive - IMPROVE-IT\\Escritorio\\IMPPROVE-IT\\DOCKER\\PRODUCTSAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6CF764AD-53E5-48B9-94E2-3AEEF67201AF}|PRODUCTSAPI\\PRODUCTSAPI.csproj|c:\\users\\jair g\u00F3mez\\onedrive - improve-it\\escritorio\\impprove-it\\docker\\productsapi\\productsapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CF764AD-53E5-48B9-94E2-3AEEF67201AF}|PRODUCTSAPI\\PRODUCTSAPI.csproj|solutionrelative:productsapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6CF764AD-53E5-48B9-94E2-3AEEF67201AF}|PRODUCTSAPI\\PRODUCTSAPI.csproj|c:\\users\\jair g\u00F3mez\\onedrive - improve-it\\escritorio\\impprove-it\\docker\\productsapi\\productsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{6CF764AD-53E5-48B9-94E2-3AEEF67201AF}|PRODUCTSAPI\\PRODUCTSAPI.csproj|solutionrelative:productsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CF764AD-53E5-48B9-94E2-3AEEF67201AF}|PRODUCTSAPI\\PRODUCTSAPI.csproj|c:\\users\\jair g\u00F3mez\\onedrive - improve-it\\escritorio\\impprove-it\\docker\\productsapi\\productsapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CF764AD-53E5-48B9-94E2-3AEEF67201AF}|PRODUCTSAPI\\PRODUCTSAPI.csproj|solutionrelative:productsapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6CF764AD-53E5-48B9-94E2-3AEEF67201AF}|PRODUCTSAPI\\PRODUCTSAPI.csproj|c:\\users\\jair g\u00F3mez\\onedrive - improve-it\\escritorio\\impprove-it\\docker\\productsapi\\productsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF764AD-53E5-48B9-94E2-3AEEF67201AF}|PRODUCTSAPI\\PRODUCTSAPI.csproj|solutionrelative:productsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6CF764AD-53E5-48B9-94E2-3AEEF67201AF}|PRODUCTSAPI\\PRODUCTSAPI.csproj|c:\\users\\jair g\u00F3mez\\onedrive - improve-it\\escritorio\\impprove-it\\docker\\productsapi\\productsapi\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CF764AD-53E5-48B9-94E2-3AEEF67201AF}|PRODUCTSAPI\\PRODUCTSAPI.csproj|solutionrelative:productsapi\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CF764AD-53E5-48B9-94E2-3AEEF67201AF}|PRODUCTSAPI\\PRODUCTSAPI.csproj|c:\\users\\jair g\u00F3mez\\onedrive - improve-it\\escritorio\\impprove-it\\docker\\productsapi\\productsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CF764AD-53E5-48B9-94E2-3AEEF67201AF}|PRODUCTSAPI\\PRODUCTSAPI.csproj|solutionrelative:productsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6CF764AD-53E5-48B9-94E2-3AEEF67201AF}|PRODUCTSAPI\\PRODUCTSAPI.csproj|c:\\users\\jair g\u00F3mez\\onedrive - improve-it\\escritorio\\impprove-it\\docker\\productsapi\\productsapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF764AD-53E5-48B9-94E2-3AEEF67201AF}|PRODUCTSAPI\\PRODUCTSAPI.csproj|solutionrelative:productsapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,63 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Jair G\u00F3mez\\OneDrive - IMPROVE-IT\\Escritorio\\IMPPROVE-IT\\DOCKER\\PRODUCTSAPI\\PRODUCTSAPI\\Program.cs",
               "RelativeDocumentMoniker": "PRODUCTSAPI\\Program.cs",
               "ToolTip": "C:\\Users\\Jair G\u00F3mez\\OneDrive - IMPROVE-IT\\Escritorio\\IMPPROVE-IT\\DOCKER\\PRODUCTSAPI\\PRODUCTSAPI\\Program.cs",
               "RelativeToolTip": "PRODUCTSAPI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T19:36:59.21Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Jair G\u00F3mez\\OneDrive - IMPROVE-IT\\Escritorio\\IMPPROVE-IT\\DOCKER\\PRODUCTSAPI\\PRODUCTSAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "PRODUCTSAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\Jair G\u00F3mez\\OneDrive - IMPROVE-IT\\Escritorio\\IMPPROVE-IT\\DOCKER\\PRODUCTSAPI\\PRODUCTSAPI\\appsettings.json",
-              "RelativeToolTip": "PRODUCTSAPI\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-16T19:16:01.613Z",
+              "WhenOpened": "2024-07-25T14:21:38.191Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\Jair G\u00F3mez\\OneDrive - IMPROVE-IT\\Escritorio\\IMPPROVE-IT\\DOCKER\\PRODUCTSAPI\\PRODUCTSAPI\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "PRODUCTSAPI\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\Jair G\u00F3mez\\OneDrive - IMPROVE-IT\\Escritorio\\IMPPROVE-IT\\DOCKER\\PRODUCTSAPI\\PRODUCTSAPI\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "PRODUCTSAPI\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T19:13:43.189Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Jair G\u00F3mez\\OneDrive - IMPROVE-IT\\Escritorio\\IMPPROVE-IT\\DOCKER\\PRODUCTSAPI\\PRODUCTSAPI\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "PRODUCTSAPI\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Jair G\u00F3mez\\OneDrive - IMPROVE-IT\\Escritorio\\IMPPROVE-IT\\DOCKER\\PRODUCTSAPI\\PRODUCTSAPI\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "PRODUCTSAPI\\Data\\AppDbContext.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAIwAsAAABFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T19:12:37.198Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Jair G\u00F3mez\\OneDrive - IMPROVE-IT\\Escritorio\\IMPPROVE-IT\\DOCKER\\PRODUCTSAPI\\PRODUCTSAPI\\Product.cs",
               "RelativeDocumentMoniker": "PRODUCTSAPI\\Product.cs",
@@ -94,7 +51,33 @@
               "RelativeToolTip": "PRODUCTSAPI\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T19:12:21.565Z",
+              "WhenOpened": "2024-07-25T14:21:31.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Jair G\u00F3mez\\OneDrive - IMPROVE-IT\\Escritorio\\IMPPROVE-IT\\DOCKER\\PRODUCTSAPI\\PRODUCTSAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "PRODUCTSAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Jair G\u00F3mez\\OneDrive - IMPROVE-IT\\Escritorio\\IMPPROVE-IT\\DOCKER\\PRODUCTSAPI\\PRODUCTSAPI\\appsettings.json",
+              "RelativeToolTip": "PRODUCTSAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-16T19:16:01.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Jair G\u00F3mez\\OneDrive - IMPROVE-IT\\Escritorio\\IMPPROVE-IT\\DOCKER\\PRODUCTSAPI\\PRODUCTSAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PRODUCTSAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Jair G\u00F3mez\\OneDrive - IMPROVE-IT\\Escritorio\\IMPPROVE-IT\\DOCKER\\PRODUCTSAPI\\PRODUCTSAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "PRODUCTSAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T19:12:37.198Z",
               "EditorCaption": ""
             }
           ]
