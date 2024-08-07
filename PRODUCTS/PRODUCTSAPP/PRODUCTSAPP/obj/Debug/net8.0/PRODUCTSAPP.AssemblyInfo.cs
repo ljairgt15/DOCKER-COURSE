@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PRODUCTSAPP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f7b2361f2d27e7970a19e1856f326ca75bc94b6")]
 [assembly: System.Reflection.AssemblyProductAttribute("PRODUCTSAPP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PRODUCTSAPP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

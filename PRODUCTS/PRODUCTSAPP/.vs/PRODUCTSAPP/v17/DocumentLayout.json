@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Jair G\u00F3mez\\OneDrive - IMPROVE-IT\\Escritorio\\IMPPROVE-IT\\DOCKER\\PRODUCTS\\PRODUCTSAPP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{36E5AE09-15CE-4509-801A-DC331E10A02C}|PRODUCTSAPP\\PRODUCTSAPP.csproj|c:\\users\\jair g\u00F3mez\\onedrive - improve-it\\escritorio\\impprove-it\\docker\\products\\productsapp\\productsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36E5AE09-15CE-4509-801A-DC331E10A02C}|PRODUCTSAPP\\PRODUCTSAPP.csproj|solutionrelative:productsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{36E5AE09-15CE-4509-801A-DC331E10A02C}|PRODUCTSAPP\\PRODUCTSAPP.csproj|c:\\users\\jair g\u00F3mez\\onedrive - improve-it\\escritorio\\impprove-it\\docker\\products\\productsapp\\productsapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{36E5AE09-15CE-4509-801A-DC331E10A02C}|PRODUCTSAPP\\PRODUCTSAPP.csproj|solutionrelative:productsapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{36E5AE09-15CE-4509-801A-DC331E10A02C}|PRODUCTSAPP\\PRODUCTSAPP.csproj|c:\\users\\jair g\u00F3mez\\onedrive - improve-it\\escritorio\\impprove-it\\docker\\products\\productsapp\\productsapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{36E5AE09-15CE-4509-801A-DC331E10A02C}|PRODUCTSAPP\\PRODUCTSAPP.csproj|solutionrelative:productsapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36E5AE09-15CE-4509-801A-DC331E10A02C}|PRODUCTSAPP\\PRODUCTSAPP.csproj|c:\\users\\jair g\u00F3mez\\onedrive - improve-it\\escritorio\\impprove-it\\docker\\products\\productsapp\\productsapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{36E5AE09-15CE-4509-801A-DC331E10A02C}|PRODUCTSAPP\\PRODUCTSAPP.csproj|solutionrelative:productsapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{36E5AE09-15CE-4509-801A-DC331E10A02C}|PRODUCTSAPP\\PRODUCTSAPP.csproj|c:\\users\\jair g\u00F3mez\\onedrive - improve-it\\escritorio\\impprove-it\\docker\\products\\productsapp\\productsapp\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{36E5AE09-15CE-4509-801A-DC331E10A02C}|PRODUCTSAPP\\PRODUCTSAPP.csproj|solutionrelative:productsapp\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E5AE09-15CE-4509-801A-DC331E10A02C}|PRODUCTSAPP\\PRODUCTSAPP.csproj|c:\\users\\jair g\u00F3mez\\onedrive - improve-it\\escritorio\\impprove-it\\docker\\products\\productsapp\\productsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E5AE09-15CE-4509-801A-DC331E10A02C}|PRODUCTSAPP\\PRODUCTSAPP.csproj|solutionrelative:productsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E5AE09-15CE-4509-801A-DC331E10A02C}|PRODUCTSAPP\\PRODUCTSAPP.csproj|c:\\users\\jair g\u00F3mez\\onedrive - improve-it\\escritorio\\impprove-it\\docker\\products\\productsapp\\productsapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{36E5AE09-15CE-4509-801A-DC331E10A02C}|PRODUCTSAPP\\PRODUCTSAPP.csproj|solutionrelative:productsapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +30,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Jair G\u00F3mez\\OneDrive - IMPROVE-IT\\Escritorio\\IMPPROVE-IT\\DOCKER\\PRODUCTS\\PRODUCTSAPP\\PRODUCTSAPP\\Dockerfile",
+              "RelativeDocumentMoniker": "PRODUCTSAPP\\Dockerfile",
+              "ToolTip": "C:\\Users\\Jair G\u00F3mez\\OneDrive - IMPROVE-IT\\Escritorio\\IMPPROVE-IT\\DOCKER\\PRODUCTS\\PRODUCTSAPP\\PRODUCTSAPP\\Dockerfile",
+              "RelativeToolTip": "PRODUCTSAPP\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-25T20:25:15.883Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -40,14 +53,13 @@
               "RelativeDocumentMoniker": "PRODUCTSAPP\\Controllers\\WeatherForecastController.cs",
               "ToolTip": "C:\\Users\\Jair G\u00F3mez\\OneDrive - IMPROVE-IT\\Escritorio\\IMPPROVE-IT\\DOCKER\\PRODUCTS\\PRODUCTSAPP\\PRODUCTSAPP\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "PRODUCTSAPP\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAgwCEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T15:32:23.725Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T15:32:23.725Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Jair G\u00F3mez\\OneDrive - IMPROVE-IT\\Escritorio\\IMPPROVE-IT\\DOCKER\\PRODUCTS\\PRODUCTSAPP\\PRODUCTSAPP\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "PRODUCTSAPP\\Properties\\launchSettings.json",
@@ -55,12 +67,11 @@
               "RelativeToolTip": "PRODUCTSAPP\\Properties\\launchSettings.json",
               "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-16T15:31:53.987Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T15:31:53.987Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Jair G\u00F3mez\\OneDrive - IMPROVE-IT\\Escritorio\\IMPPROVE-IT\\DOCKER\\PRODUCTS\\PRODUCTSAPP\\PRODUCTSAPP\\Program.cs",
               "RelativeDocumentMoniker": "PRODUCTSAPP\\Program.cs",
@@ -68,21 +79,19 @@
               "RelativeToolTip": "PRODUCTSAPP\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T15:31:47.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T15:31:47.171Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\Jair G\u00F3mez\\OneDrive - IMPROVE-IT\\Escritorio\\IMPPROVE-IT\\DOCKER\\PRODUCTS\\PRODUCTSAPP\\PRODUCTSAPP\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "PRODUCTSAPP\\WeatherForecast.cs",
               "ToolTip": "C:\\Users\\Jair G\u00F3mez\\OneDrive - IMPROVE-IT\\Escritorio\\IMPPROVE-IT\\DOCKER\\PRODUCTS\\PRODUCTSAPP\\PRODUCTSAPP\\WeatherForecast.cs",
               "RelativeToolTip": "PRODUCTSAPP\\WeatherForecast.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T15:31:40.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T15:31:40.356Z"
             }
           ]
         }
